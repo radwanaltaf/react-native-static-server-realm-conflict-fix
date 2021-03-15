@@ -1,0 +1,53 @@
+{
+  "_from": "react-native-static-server@0.2.4",
+  "_id": "react-native-static-server@0.2.4",
+  "_inBundle": false,
+  "_integrity": "sha1-IZx+ECnZXrhgpozupf05whscyEY=",
+  "_location": "/react-native-static-server",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-static-server@0.2.4",
+    "name": "react-native-static-server",
+    "escapedName": "react-native-static-server",
+    "rawSpec": "0.2.4",
+    "saveSpec": null,
+    "fetchSpec": "0.2.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-static-server/-/react-native-static-server-0.2.4.tgz",
+  "_shasum": "219c7e1029d95eb860a68ceea5fd39c21b1cc846",
+  "_spec": "react-native-static-server@0.2.4",
+  "_where": "/Users/radwanaltaf/Desktop/BeEdMobile_Latest/BeEDMobile/react-native/BeED",
+  "author": {
+    "name": "fchasen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/futurepress/react-native-static-server/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "HTTP static file server for React Native",
+  "homepage": "https://github.com/futurepress/react-native-static-server#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-static-server",
+  "peerDependencies": {
+    "react-native": "^0.47.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurepress/react-native-static-server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.4"
+}
